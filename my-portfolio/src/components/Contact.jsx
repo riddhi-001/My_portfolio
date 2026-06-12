@@ -39,21 +39,21 @@ export default function Contact() {
               <div className="info-icon">📧</div>
               <div>
                 <h4>Email Us</h4>
-                <p>hello@creativeminds.com</p>
+                <p>Twocreativehub@gmail.com</p>
               </div>
             </div>
             <div className="info-card">
               <div className="info-icon">📞</div>
               <div>
                 <h4>Call Us</h4>
-                <p>+91 98765 43210</p>
+                <p>+91 63568 81002</p>
               </div>
             </div>
             <div className="info-card">
               <div className="info-icon">📍</div>
               <div>
                 <h4>Visit Us</h4>
-                <p>Mumbai, Maharashtra, India</p>
+                <p>Ahmedabad, Gujarat, India</p>
               </div>
             </div>
           </div>

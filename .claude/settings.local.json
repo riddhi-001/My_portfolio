@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(not exist *)",
+      "Bash(mkdir -p \"D:\\\\Project\\\\other\\\\My_portfolio\\\\my-portfolio\\\\.claude\")",
+      "mcp__Claude_Preview__preview_start"
+    ]
+  }
+}
